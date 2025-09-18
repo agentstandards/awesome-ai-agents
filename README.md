@@ -5589,3 +5589,9 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+
+## Resources
+
+- [AI Manifest](https://ai-manifest.org) — optional reference for /.well‑known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
+- [WellKnownAI](https://wellknownai.org) — registry/spec examples and public snapshots (no PII, mirroring allowed).
