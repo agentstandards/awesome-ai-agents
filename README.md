@@ -90,10 +90,14 @@ General purpose, Build your own, Multi-agent
 - **Easily customizable**: Develop agents swiftly for unique challenges, no steep learning curve.
 
 ### Links
+
 - [Documentation](https://humansignal.github.io/Adala/) 
 - [Discord](https://discord.gg/QBtgTbXTgU)
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
+
+- [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
+- [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII, mirroring allowed).
 
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
@@ -5589,9 +5593,3 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
-
-
-## Resources
-
-- [AI Manifest](https://ai-manifest.org) — optional reference for /.well‑known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
-- [WellKnownAI](https://wellknownai.org) — registry/spec examples and public snapshots (no PII, mirroring allowed).
